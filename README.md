@@ -7,8 +7,8 @@ The scope of the NASA SMD Ontology includes: the [organizational](https://scienc
 The scope is subject to revision.
 
 ### Purpose
-* To support NASA in such ways as data management, knowledge management, etc.
-* To explore the potential utility of ontology / semantic modeling / conceptual data modeling / AI knowledge representation for the SMD and the given scope.
+* To support NASA in data management, knowledge management, etc.
+* To explore the potential utility of ontology / semantic modeling / conceptual data modeling / AI knowledge representation / knowledge grahs (here collectively called 'knowledge modeling) for the SMD and the given scope.
 * To innovate
 
 ### Status
@@ -25,6 +25,7 @@ You can help by offerring financial support, employment opportunities, graduate 
 ## Author / Creator / Developer - [Contact](https://ontospace.wordpress.com/contact)
 [Robert J. Rovetto](http://orcid.org/0000-0003-3835-7817) 
 * Concept Engineering, Knowledge modeling, Terminology, Digital Ethics, Ethics of AI 
+* Actively open to work & PhD study opportunities, worldwide
 * [Space Ontologist](https://purl.org/space-ontology)
 * [Ontology bio](https://ontologforum.org/index.php/RobertRovetto)
 
