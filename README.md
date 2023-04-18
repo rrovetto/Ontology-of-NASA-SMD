@@ -30,6 +30,7 @@ You can help by offerring financial support, employment opportunities, graduate 
 * [Ontology bio](https://ontologforum.org/index.php/RobertRovetto)
 
 ## Relevant works 
+- In-progress, but on-the-shelf, white paper. Seeking co-authors - [Contact me if you can fund, or have interest in joining the paper](https://ontospace.wordpress.com/contact)
 - [NASA SpaceApps 2021 Challenge](https://github.com/rrovetto/NASA-Spaceapps-2021-Challenge)
 - [Conceptual/semantic/ontology modeling for space](https://purl.org/space-ontology)
 
