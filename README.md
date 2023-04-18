@@ -14,6 +14,9 @@ The scope is subject to revision.
 ### Status
 - As a personal project, unfunded to date, formal support is needed to continue and sustain development 
 
+![Image of a graph diagram of part of the Ontology of the NASA SMD](https://github.com/rrovetto/Ontology-of-NASA-SMD/blob/main/images/Diagram_NASA-SMD_OntologyKnowledgeGraph_Rovetto_v1.png)
+
+
 ## Support - How you can help
 You can help by offerring financial support, employment opportunities, graduate study opportunities whereby this can be part of my thesis or projects, co-authorship on papers or proposal, mentorship, voluntary technical expertise/servies for desired functionalities of my project, relevant datasets to apply the ontology to, and to be a user of the ontology(s). [Contact](https://ontospace.wordpress.com/contact), or [schedule a meeting](https://tinyurl.com/hm8wu2sa) 
 
