@@ -1,9 +1,9 @@
 # Ontology of NASA Science Mission Directorate (SMD)
 
-An ontology of the NASA Science Mission Directorate and associated datasets.
+An ontology describing the NASA Science Mission Directorate and associated datasets.
 
 ### Scope
-The scope of the NASA SMD Ontology includes: the organizational aspects of the SMD, the datasets within its purview, related knowledge organization systems (e.g. classifications, subject-headings, etc.), etc.
+The scope of the NASA SMD Ontology includes: the [organizational](https://science.nasa.gov/about-us/leadership/org-chart) and structural aspects of the SMD, the datasets within its purview, related knowledge organization systems (e.g. classifications, the NASA Subject Headings, etc.), etc.
 The scope is subject to revision.
 
 ### Purpose
@@ -12,7 +12,6 @@ The scope is subject to revision.
 * To innovate
 
 ### Status
-- In progress, dependent on support
 - As a personal project, unfunded to date, formal support is needed to continue and sustain development 
 
 ## Support - How you can help
