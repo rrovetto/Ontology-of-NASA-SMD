@@ -1,4 +1,4 @@
-# Ontology of NASA Science Mission Directorate (SMD)
+# The Ontology of NASA Science Mission Directorate (SMD)
 
 An ontology describing the NASA Science Mission Directorate and associated datasets.
 
